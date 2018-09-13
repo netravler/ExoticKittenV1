@@ -1,0 +1,9 @@
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\mjsniffer\MJSniff\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\mjsniffer\MJSniff\obj\Debug\MJsniffer.MJsnifferForm.resources
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\mjsniffer\MJSniff\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\mjsniffer\MJSniff\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\mjsniffer\MJSniff\bin\Debug\SNUFF.exe
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\mjsniffer\MJSniff\bin\Debug\SNUFF.pdb
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\mjsniffer\MJSniff\obj\Debug\SNUFF.Properties.Resources.resources
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\mjsniffer\MJSniff\obj\Debug\SNUFF.exe
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\mjsniffer\MJSniff\obj\Debug\SNUFF.pdb
